@@ -1,5 +1,5 @@
 # Pirmā līmeņa virsraksts
 ## Otrā līmeņa virsraksts
-### Mazākā līmeņā virsraksts
+#### Mazāka līmeņā virsraksts
 
 Vienkāršs teksts
